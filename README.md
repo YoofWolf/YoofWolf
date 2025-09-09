@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I'm Andy Rojas Sanchez
+- I'm attending at Univeristy of Minnesota Twin Cities (Class of 26)
+- I'm currenyly majoring in Information Technology Infrastructure (ITI), Subplan Data Science 📊
+- I'm more interested in AI 🤖 and Machine learning ⚙️
 
 <!--
 **YoofWolf/YoofWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
