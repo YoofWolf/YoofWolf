@@ -1,7 +1,6 @@
 ## Hi there 👋
 - I'm Andy Rojas Sanchez
-- I'm attending at Univeristy of Minnesota Twin Cities (Class of 26)
-- I'm currently majoring in Information Technology Infrastructure (ITI), Subplan Data Science 📊
+- I'm a recent Graduate Information Technology Infrastructure (ITI), Subplan Data Science 📊
 - I'm more interested in AI 🤖 and Machine learning ⚙️
 - Continous learning
 
